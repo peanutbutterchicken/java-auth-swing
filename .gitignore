@@ -1,0 +1,26 @@
+# IDE-specific folders
+.vscode/
+
+# Compiled output
+bin/
+out/
+
+# OS-specific files
+Thumbs.db
+
+# Logs
+*.log
+
+# Java-specific
+*.class
+*.jar
+*.war
+
+# JAF reference folder
+/lib/jaf-1_1_1/
+
+# testing
+/src/features/auth/sandbox
+
+# config files
+/config
