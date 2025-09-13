@@ -21,6 +21,3 @@ Thumbs.db
 
 # testing
 /src/features/auth/sandbox
-
-# config files
-/config
