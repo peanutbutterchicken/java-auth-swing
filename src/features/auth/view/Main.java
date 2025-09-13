@@ -1,7 +1,5 @@
 package auth.view;
 
-import java.util.Scanner;
-
 public class Main {
     public static void main(String[] args) {
         ViewManager viewManager = new ViewManager("Auth Sample", 650, 450);

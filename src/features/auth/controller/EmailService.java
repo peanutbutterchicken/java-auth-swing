@@ -29,9 +29,6 @@ public class EmailService {
         //
         // senderEmail: YOUR@gmail.com
         // appPassword: YOURAPPPASSWORD
-        //
-        // THEN CREATE A (config) FOLDER THAT WILL HAVE THE (.properties) FILE
-        // NAME YOUR FILE AS "SenderEmailCredentials.properties" SO YOU DON'T HAVE TO CHANGE OTHER PARTS OF THE CODE
 
         // Recipient's email
         String to = Users.getCurrentUser().getEmail();
